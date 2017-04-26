@@ -1,10 +1,40 @@
-:DONE_Text	{container=':EmotivPro v1.0.2_DeviceConnectCheckHeadsetV2' text='DONE' type='Text' unnamed='1' visible='true'}
+:1. Starting from the top of the skull, gently slide the headset onto your head_Text	{container=':EmotivPro v1.0.2_DeviceConnectHeadsetV2' text='1. Starting from the top of the skull, gently slide the headset onto your head' type='Text' unnamed='1' visible='true'}
+:2. The reference sensors sit just above and behind your ears. The rubber comfort pads rest behind your ears._Text	{container=':EmotivPro v1.0.2_DeviceConnectHeadsetV2' text='2. The reference sensors sit just above and behind your ears. The rubber comfort pads rest behind your ears.' type='Text' unnamed='1' visible='true'}
+:AF3_Text	{container=':devicesLists.row_Rectangle' text='Connect' type='Text' unnamed='1' visible='true'}
+:Create account_Text	{container=':_QQuickApplicationWindow' text='Create account' type='Text' unnamed='1' visible='true'}
+:DONE_Text	{container=':EmotivPro v1.0.3_DeviceConnectCheckHeadsetV2' text='DONE' type='Text' unnamed='1' visible='true'}
+:EmotivID_Text	{container=':_QQuickApplicationWindow' text='EmotivID' type='Text' unnamed='1' visible='true'}
+:EmotivPro v1.0.2.Account_Text	{container=':EmotivPro v1.0.2_QQuickApplicationWindow' text='Account' type='Text' unnamed='1' visible='true'}
+:EmotivPro v1.0.2.Avaliable devices_Text	{container=':EmotivPro v1.0.2_QQuickApplicationWindow' text='Avaliable devices' type='Text' unnamed='1' visible='true'}
+:EmotivPro v1.0.2.Log out_Text	{container=':EmotivPro v1.0.2_QQuickApplicationWindow' text='Log out' type='Text' unnamed='1' visible='true'}
+:EmotivPro v1.0.2.devicesLists_ListView	{container=':EmotivPro v1.0.2_QQuickApplicationWindow' id='devicesLists' type='ListView' unnamed='1' visible='true'}
+:EmotivPro v1.0.2.mToolbar_Toolbar	{container=':EmotivPro v1.0.2_QQuickApplicationWindow' id='mToolbar' type='Toolbar' unnamed='1' visible='true'}
+:EmotivPro v1.0.2.rernRtgContainer_Rectangle	{container=':EmotivPro v1.0.2_QQuickApplicationWindow' id='rernRtgContainer' occurrence='2' type='Rectangle' unnamed='1' visible='true'}
 :EmotivPro v1.0.2_DeviceConnectCheckHeadsetV2	{container=':EmotivPro v1.0.2_QQuickApplicationWindow' type='DeviceConnectCheckHeadsetV2' unnamed='1' visible='true'}
 :EmotivPro v1.0.2_DeviceConnectHeadsetV2	{container=':EmotivPro v1.0.2_QQuickApplicationWindow' type='DeviceConnectHeadsetV2' unnamed='1' visible='true'}
 :EmotivPro v1.0.2_QQuickApplicationWindow	{title='EmotivPro v1.0.2' type='QQuickApplicationWindow' unnamed='1' visible='true'}
+:EmotivPro v1.0.2_RawEgg	{container=':EmotivPro v1.0.2_QQuickApplicationWindow' type='RawEgg' unnamed='1' visible='true'}
+:EmotivPro v1.0.3.mToolbar_Toolbar	{container=':EmotivPro v1.0.3_QQuickApplicationWindow' id='mToolbar' type='Toolbar' unnamed='1' visible='true'}
+:EmotivPro v1.0.3_DeviceConnectCheckHeadsetV2	{container=':EmotivPro v1.0.3_QQuickApplicationWindow' type='DeviceConnectCheckHeadsetV2' unnamed='1' visible='true'}
+:EmotivPro v1.0.3_DeviceConnectHeadsetV2	{container=':EmotivPro v1.0.3_QQuickApplicationWindow' type='DeviceConnectHeadsetV2' unnamed='1' visible='true'}
+:EmotivPro v1.0.3_QQuickApplicationWindow	{title='EmotivPro v1.0.3' type='QQuickApplicationWindow' unnamed='1' visible='true'}
+:Fitting your headset correctly_Text	{container=':EmotivPro v1.0.3_DeviceConnectHeadsetV2' text='Fitting your headset correctly' type='Text' unnamed='1' visible='true'}
+:Forgot password?_Text	{container=':_QQuickApplicationWindow' text='Forgot password?' type='Text' unnamed='1' visible='true'}
+:Login_Text	{container=':_QQuickApplicationWindow' text='Login' type='Text' unnamed='1' visible='true'}
+:NEXT_Text	{container=':EmotivPro v1.0.3_DeviceConnectHeadsetV2' text='NEXT' type='Text' unnamed='1' visible='true'}
+:Password_Text	{container=':_QQuickApplicationWindow' text='Password' type='Text' unnamed='1' visible='true'}
+:Speakers: 30%_Button	{container=':_SystemTray' text='Speakers: 30%' type='Button'}
 :_QQuickApplicationWindow	{type='QQuickApplicationWindow' unnamed='1' visible='true'}
+:_SystemTray	{type='SystemTray'}
 :background_Rectangle	{container=':_QQuickApplicationWindow' id='background' type='Rectangle' unnamed='1' visible='true'}
 :background_Rectangle_2	{container=':EmotivPro v1.0.2_DeviceConnectHeadsetV2' id='background' type='Rectangle' unnamed='1' visible='true'}
 :background_Rectangle_3	{container=':EmotivPro v1.0.2_DeviceConnectCheckHeadsetV2' id='background' type='Rectangle' unnamed='1' visible='true'}
+:devicesLists.row_Rectangle	{container=':EmotivPro v1.0.2.devicesLists_ListView' id='row' index='0' type='Rectangle' unnamed='1' visible='true'}
+:mToolbar.100_Text	{container=':EmotivPro v1.0.2_RawEgg' text='AF3' type='Text' unnamed='1' visible='true'}
+:mToolbar.No headset connected_Text	{container=':EmotivPro v1.0.2.mToolbar_Toolbar' occurrence='2' text='No headset connected' type='Text' unnamed='1' visible='true'}
+:mToolbar.chimcu1234_Text	{container=':EmotivPro v1.0.2.mToolbar_Toolbar' text='chimcu1234' type='Text' unnamed='1' visible='true'}
+:mToolbar.chimcu_Text	{container=':EmotivPro v1.0.3.mToolbar_Toolbar' text='chimcu' type='Text' unnamed='1' visible='true'}
+:mToolbar.icondown_Image	{container=':EmotivPro v1.0.2.mToolbar_Toolbar' id='icondown' source='qrc:/qml/qmlcomponents/img/icons/input-form-icons/caret-down-icon-white-3x.png' type='Image' unnamed='1' visible='true'}
+:mToolbar.tbRtgContainerCenterNav_Rectangle	{container=':EmotivPro v1.0.2.mToolbar_Toolbar' id='tbRtgContainerCenterNav' type='Rectangle' unnamed='1' visible='true'}
 :textField_TextField	{container=':_QQuickApplicationWindow' id='textField' type='TextField' unnamed='1' visible='true'}
 :textField_TextField_2	{container=':_QQuickApplicationWindow' id='textField' occurrence='2' type='TextField' unnamed='1' visible='true'}
